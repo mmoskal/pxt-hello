@@ -1,0 +1,11 @@
+{
+    "name": "hello",
+    "description": "Test packaging",
+    "files": [
+        "hello.ts"
+    ],
+    "public": true,
+    "dependencies": {
+        "microbit": "*"
+    }
+}
