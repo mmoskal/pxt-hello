@@ -1,3 +1,3 @@
-export function hello() {
+function hello() {
     basic.showString("Hello world!")
 }
