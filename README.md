@@ -2,5 +2,5 @@
 Test package for PXT github packages
 
 ## Supported targets
-* for PXT/microbit
+- for PXT (Add PXT/{target} here) (The metadata above is needed for package search.)
 
