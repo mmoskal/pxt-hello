@@ -2,5 +2,5 @@
 Test package for PXT github packages
 
 ## Supported targets
-* for PXT/microbit
+* for PXT { Add pxt / target for the extact target}
 
